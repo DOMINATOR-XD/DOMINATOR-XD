@@ -4,7 +4,7 @@ Hi 👋,
 I'm 𝐍1𝐱乛𝐃𝐎𝐌𝐈𝐍𝐀𝐓𝐎𝐑</h1>
   <div align="center">
     
-  [![DOMINATOR](https://github.com/DOMINATOR-XD.png?size=100)](https://github.com/DOMINATOR-XD)
+  [![DOMINATOR](https://github.com/DOMINATOR-XD.png?size=100)](https://github.com/DOMINATOR-D)
     
 [DOMINATOR](https://github.com/DOMINATOR-XD)
   </div>
